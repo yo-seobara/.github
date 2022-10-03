@@ -57,7 +57,7 @@
 </tbody>
 </table>
 
-| 이석준 | 이예찬 | 서정희 | 신효원 | 김건 | 이시원 |
+| 이석준 | 이예찬 | 서정희 | 신효원 | 김건 | 김시원 |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | ![img]() | ![img]() | ![img]() | ![img]()  | ![img]() | ![img]()  |
 | [Seokjun7074](https://github.com/Seokjun7074) | [yc8569](https://github.com/yc8569) | [jinaSE0](https://github.com/jinaSE0) | [HyowonSin](https://github.com/HyowonSin) |[bark20](https://github.com/bark20) |[ktldnjs](https://github.com/ktldnjs) |
