@@ -59,8 +59,8 @@
 
 | 이석준 | 이예찬 | 서정희 | 신효원 | 김건 | 김시원 |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| ![image (1)](https://user-images.githubusercontent.com/109025674/193538890-e6de8212-69a8-4520-9829-7bd500d592dc.png)| ![스크린샷 2022-10-03 오후 5 54 14](https://user-images.githubusercontent.com/109025674/193539875-69a1f710-2f53-4c7d-962c-ede7d01f345b.png)| ![서정희](https://user-images.githubusercontent.com/109025674/193537869-dbd0b163-df6e-46a1-9f38-97a130b41b3a.PNG)|![신효원)](https://user-images.githubusercontent.com/109025674/193538516-667cec72-d611-43fd-9ba0-6190c5b48652.png)| ![이미지](https://user-images.githubusercontent.com/109025674/193539085-a32de568-e421-4de3-9f2d-f6a34e37c847.JPG)| ![img](https://user-images.githubusercontent.com/109025674/193539469-204470a3-b39e-44ec-9e31-1ef64e2a6ba7.png)|
-| [Seokjun7074](https://github.com/Seokjun7074) | [yc8569](https://github.com/yc8569) | [jinaSE0](https://github.com/jinaSE0) | [HyowonSin](https://github.com/HyowonSin) |[bark20](https://github.com/bark20) |[ktldnjs](https://github.com/ktldnjs) |
+| ![이석준](https://user-images.githubusercontent.com/109025674/193542311-15be2f67-ccbb-4383-8c74-2ca9da505ecd.png)|![이예찬](https://user-images.githubusercontent.com/109025674/193542349-5cff393d-570a-4918-9674-258e0b371c88.png)|![서정희](https://user-images.githubusercontent.com/109025674/193542379-6bd3276d-5304-456f-9cb0-942815ea19ad.png)|![신효원](https://user-images.githubusercontent.com/109025674/193542412-cd64e64c-b4f6-445e-8a60-fd05c648940d.png)| ![김건](https://user-images.githubusercontent.com/109025674/193542442-b40a820c-f8fd-429d-a05a-ac6846fd566e.jpg)|![김시원](https://user-images.githubusercontent.com/109025674/193542469-d5434b48-40dd-4d7b-98bc-6eaaeed25915.png)|
+|[Seokjun7074](https://github.com/Seokjun7074) | [yc8569](https://github.com/yc8569) | [jinaSE0](https://github.com/jinaSE0) | [HyowonSin](https://github.com/HyowonSin) |[bark20](https://github.com/bark20) |[ktldnjs](https://github.com/ktldnjs) |
 | Frontend(React) | Frontend(React) | Frontend(React) | Backend(Spring) | Backend(Spring) | Backend(Spring) |
   
   </div>
