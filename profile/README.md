@@ -59,7 +59,7 @@
 
 | 이석준 | 이예찬 | 서정희 | 신효원 | 김건 | 김시원 |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| ![img]() | ![img]() | ![img]() | ![img]()  | ![img]() | ![img]()  |
+| ![image (1)](https://user-images.githubusercontent.com/109025674/193538890-e6de8212-69a8-4520-9829-7bd500d592dc.png)| ![스크린샷 2022-10-03 오후 5 54 14](https://user-images.githubusercontent.com/109025674/193539875-69a1f710-2f53-4c7d-962c-ede7d01f345b.png)| ![서정희](https://user-images.githubusercontent.com/109025674/193537869-dbd0b163-df6e-46a1-9f38-97a130b41b3a.PNG)|![신효원)](https://user-images.githubusercontent.com/109025674/193538516-667cec72-d611-43fd-9ba0-6190c5b48652.png)| ![이미지](https://user-images.githubusercontent.com/109025674/193539085-a32de568-e421-4de3-9f2d-f6a34e37c847.JPG)| ![img](https://user-images.githubusercontent.com/109025674/193539469-204470a3-b39e-44ec-9e31-1ef64e2a6ba7.png)|
 | [Seokjun7074](https://github.com/Seokjun7074) | [yc8569](https://github.com/yc8569) | [jinaSE0](https://github.com/jinaSE0) | [HyowonSin](https://github.com/HyowonSin) |[bark20](https://github.com/bark20) |[ktldnjs](https://github.com/ktldnjs) |
 | Frontend(React) | Frontend(React) | Frontend(React) | Backend(Spring) | Backend(Spring) | Backend(Spring) |
   
