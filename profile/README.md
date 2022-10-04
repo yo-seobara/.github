@@ -5,16 +5,19 @@
   <br></br>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/node-16.13.0-339933?logo=node.js"> 
-  <img src="https://img.shields.io/badge/NestJS-8.0.0-E0234E?logo=NestJS"> 
-  <img src="https://img.shields.io/badge/React-17.0.0-61DAFB?logo=React"> 
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src ="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+  <img src ="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"> 
 </div>
 
 <div align="center">
-<!--   <img src="https://img.shields.io/badge/GitHub_Actions-0.0.0-2088FF?logo=GitHub Actions">  -->
-  <img src="https://img.shields.io/badge/MySQL-5.7.33-4479A1?logo=MySQL"> 
-  <img src="https://img.shields.io/badge/Socket.io-4.3.2-010101?logo=Socket.io"> 
-<!--   <img src="https://img.shields.io/badge/Ubuntu-0.0.0-E95420?logo=Ubuntu">  -->
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 </div>
 
 ## 소개
