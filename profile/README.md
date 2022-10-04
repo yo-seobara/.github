@@ -86,7 +86,8 @@
 -ㅏㅣㅏㅏㅏㅏ
 
 
-## 인프라 구조
-![infra]()
+## 서비스 아키텍처
+![캡처](https://user-images.githubusercontent.com/109025674/193815680-6868c53d-eab0-4696-ba25-cd6681237d86.PNG)
+
 
 
