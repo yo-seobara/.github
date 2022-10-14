@@ -31,13 +31,13 @@
   <tr>
     <th>
       <div>
-        <img src="" width="300" height="180">
+        <img src="https://user-images.githubusercontent.com/109025674/195797899-31389767-945a-49cd-bf20-916ea25ee875.gif" width="300" height="180">
       </div>
      나만의 인생샷을 공유해요!
     </th>
     <th>
       <div>
-        <img src="" width="300" height="180">
+        <img src="https://user-images.githubusercontent.com/109025674/195798816-da555fd2-a876-4da5-9f5a-478df2828bee.gif" width="300" height="180">
       </div>
       내 근처의 사진 맛집을 확인해요!
     </th>
@@ -46,13 +46,13 @@
   <tr>
     <th>
       <div>
-        <img src="" width="300" height="180">
+        <img src="https://user-images.githubusercontent.com/109025674/195798430-534fbf54-dd63-4291-9109-249798ff3629.gif" width="300" height="180">
       </div>
       카카오 로그인으로 따로 가입없이 사용하실 수 있어요!
     </th>
     <th>
       <div>
-       <img src="" width="300" height="180">
+       <img src="https://user-images.githubusercontent.com/109025674/195799068-e2b3a420-1b7a-465c-913c-b3370fa256e6.gif" width="300" height="180">
       </div>
        댓글과 좋아요를 통해 다른 유저와 소통해보세요!
     </th>
