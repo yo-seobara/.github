@@ -2,6 +2,8 @@
   <img src="https://user-images.githubusercontent.com/109025674/193523365-e4c205bb-150f-4ad5-97b2-9377a9ac69e1.PNG" width="150">   <h6>인생 '내' 컷 어디가 잘나와? 여기 서 봐, 패션의 완성은 얼굴? 사진의 완성은 배경! 여기 서 봐</h6>
   <h2>📸 사진 스팟 공유 서비스, 요서바라📸</h2>
   <a href="https://www.notion.so/2-b2a83adc547f456fa02222cad3e04a44">노션</a>　
+  <a href="https://yo-seobara.shop/">웹 사이트</a>　
+  
   <br></br>
 </div>
 <div align="center">
